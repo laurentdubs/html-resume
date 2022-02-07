@@ -1,0 +1,48 @@
+.page{
+    background-color:azure;
+    width: 780px;
+    margin: auto;
+    font-size: 16px;
+    }
+h1{
+    color: rgb(1, 83, 160);;
+}
+
+ h2{
+    color:rgb(1, 83, 160);
+    border: 3px solid rgb(1, 83, 160)
+    }
+
+.presentation{
+    height: 250px;
+}
+
+.infos{
+    float: left;
+}
+
+.photo{
+    float: right;
+}
+
+.lien{
+    float: left;
+    }
+
+.experiences{
+     margin-bottom: 70px;
+     text-align: justify;
+}
+
+.description{
+
+}
+
+.competences{
+
+}
+
+span.Leroy_Merlin{
+    font-size: 20px;
+    
+}
